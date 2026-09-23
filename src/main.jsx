@@ -7,7 +7,7 @@ const Icon = ({ children, size = 20 }) => (
     {children}
   </span>
 );
-
+// GitHub sync test
 const icons = {
   home: "⌂",
   patients: "♙",
